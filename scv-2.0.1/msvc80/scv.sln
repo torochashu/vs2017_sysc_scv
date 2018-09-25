@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scv", "scv\scv.vcproj", "{F71A70AB-631A-4CA5-96C4-5CCAE222835B}"
 	ProjectSection(ProjectDependencies) = postProject
 		{C4492F2C-966F-456D-BA8E-3BB6BB3C81A1} = {C4492F2C-966F-456D-BA8E-3BB6BB3C81A1}
@@ -90,5 +92,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB54020-1161-4636-AA87-0E46282F71FB}
 	EndGlobalSection
 EndGlobal

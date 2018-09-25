@@ -4,3 +4,13 @@
 
 /.vs
 examples
+*.idb
+*.ilk
+*.log
+*.obj
+*.pdb
+*.tlog
+/systemc-2.3.2/msvc10/SystemC/x64/DebugDLL/SystemC-2.3.2.lib
+/systemc-2.3.2/msvc10/SystemC/x64/DebugDLL/SystemC-2.3.2.exp
+/systemc-2.3.2/msvc10/SystemC/x64/ReleaseDLL/SystemC-2.3.2.lib
+/systemc-2.3.2/msvc10/SystemC/x64/ReleaseDLL/SystemC-2.3.2.exp
